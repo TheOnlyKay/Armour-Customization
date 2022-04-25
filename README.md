@@ -8,4 +8,5 @@ https://vanillatweaks.net/picker/resource-packs/ </br>
 https://www.planetminecraft.com/texture-pack/magpie-wings-elytra/ </br>
 https://www.planetminecraft.com/texture-pack/gilded-netherite-elytra/ </br>
 https://hermitcraft.com/ </br>
-https://www.planetminecraft.com/texture-pack/grimdark-tools/
+https://www.planetminecraft.com/texture-pack/grimdark-tools/ </br>
+https://www.curseforge.com/minecraft/texture-packs/hats-plus
