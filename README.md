@@ -17,3 +17,4 @@ https://www.planetminecraft.com/texture-pack/bettervanillabuilding-armors-tools-
 https://www.planetminecraft.com/texture-pack/cottagecore-elytras/ </br>
 https://www.planetminecraft.com/texture-pack/jay-wings-elytra/ </br>
 https://www.curseforge.com/minecraft/texture-packs/allay-elytra/screenshots </br>
+https://www.planetminecraft.com/texture-pack/genshin-impact-wind-glider-elytra-pack-optifine-required/ </br>
